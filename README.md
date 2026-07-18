@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dikshachavan3205/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1301-number-of-paths-with-max-score](https://github.com/dikshachavan3205/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/dikshachavan3205/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/dikshachavan3205/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2090-k-radius-subarray-averages](https://github.com/dikshachavan3205/leetcode/tree/master/2090-k-radius-subarray-averages) |
@@ -68,4 +69,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2090-k-radius-subarray-averages](https://github.com/dikshachavan3205/leetcode/tree/master/2090-k-radius-subarray-averages) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/dikshachavan3205/leetcode/tree/master/1301-number-of-paths-with-max-score) |
+## Matrix
+|  |
+| ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/dikshachavan3205/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 <!---LeetCode Topics End-->
