@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/dikshachavan3205/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2090-k-radius-subarray-averages](https://github.com/dikshachavan3205/leetcode/tree/master/2090-k-radius-subarray-averages) |
 | [3312-sorted-gcd-pair-queries](https://github.com/dikshachavan3205/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/dikshachavan3205/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/dikshachavan3205/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dikshachavan3205/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [3312-sorted-gcd-pair-queries](https://github.com/dikshachavan3205/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/dikshachavan3205/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/dikshachavan3205/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/dikshachavan3205/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/dikshachavan3205/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Stack
 |  |
 | ------- |
@@ -107,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/dikshachavan3205/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Segment Tree
+|  |
+| ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/dikshachavan3205/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 <!---LeetCode Topics End-->
