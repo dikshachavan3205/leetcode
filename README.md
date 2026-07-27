@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/dikshachavan3205/leetcode/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/dikshachavan3205/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/dikshachavan3205/leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dikshachavan3205/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/dikshachavan3205/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2090-k-radius-subarray-averages](https://github.com/dikshachavan3205/leetcode/tree/master/2090-k-radius-subarray-averages) |
 | [3312-sorted-gcd-pair-queries](https://github.com/dikshachavan3205/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/dikshachavan3205/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/dikshachavan3205/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/dikshachavan3205/leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dikshachavan3205/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/dikshachavan3205/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/dikshachavan3205/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
@@ -132,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/dikshachavan3205/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/dikshachavan3205/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dikshachavan3205/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
